@@ -1,0 +1,5 @@
+data/
+image_lists/
+outputs/
+.idea/*
+*.pyc
